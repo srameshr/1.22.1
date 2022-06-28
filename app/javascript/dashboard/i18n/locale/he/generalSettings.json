@@ -1,0 +1,83 @@
+{
+  "GENERAL_SETTINGS": {
+    "TITLE": "הגדרות חשבון",
+    "SUBMIT": "עדכן הגדרות",
+    "BACK": "חזור",
+    "UPDATE": {
+      "ERROR": "לא ניתן היה לעדכן את ההגדרות, נסה שוב!",
+      "SUCCESS": "הגדרות החשבון עודכנו בהצלחה"
+    },
+    "FORM": {
+      "ERROR": "אנא תקן שגיאות בטופס",
+      "GENERAL_SECTION": {
+        "TITLE": "הגדרות כלליות",
+        "NOTE": ""
+      },
+      "NAME": {
+        "LABEL": "שם החשבון",
+        "PLACEHOLDER": "שם החשבון שלך",
+        "ERROR": "נא להזין שם חשבון חוקי"
+      },
+      "LANGUAGE": {
+        "LABEL": "שפת אתר (ביטא)",
+        "PLACEHOLDER": "שם החשבון שלך",
+        "ERROR": ""
+      },
+      "DOMAIN": {
+        "LABEL": "דומיין דואר נכנס",
+        "PLACEHOLDER": "הדומיין שבו תקבלו את המיילים",
+        "ERROR": ""
+      },
+      "SUPPORT_EMAIL": {
+        "LABEL": "אימייל לתמיכה",
+        "PLACEHOLDER": "דוא\"ל התמיכה של החברה שלך",
+        "ERROR": ""
+      },
+      "AUTO_RESOLVE_DURATION": {
+        "LABEL": "מספר הימים לאחר כרטיס אמור להיפתר אוטומטית אם אין פעילות",
+        "PLACEHOLDER": "30",
+        "ERROR": "אנא הזן משך פתרון אוטומטי חוקי (מינימום יום אחד)"
+      },
+      "FEATURES": {
+        "INBOUND_EMAIL_ENABLED": "רציפות השיחה עם הודעות אימייל מופעלת עבור החשבון שלך.",
+        "CUSTOM_EMAIL_DOMAIN_ENABLED": "אתה יכול לקבל אימיילים בדומיין המותאם אישית שלך עכשיו."
+      }
+    },
+    "UPDATE_CHATWOOT": "עדכון %{latestChatwootVersion} עבור Chatwoot זמין. אנא עדכן את המופע שלך."
+  },
+  "FORMS": {
+    "MULTISELECT": {
+      "ENTER_TO_SELECT": "הקש אנטר כדי לבחור",
+      "ENTER_TO_REMOVE": "הקש אנטר כדי להסיר",
+      "SELECT_ONE": "תבחר אחד"
+    }
+  },
+  "NOTIFICATIONS_PAGE": {
+    "HEADER": "התראות",
+    "MARK_ALL_DONE": "סמן הכל כבוצע",
+    "LIST": {
+      "LOADING_MESSAGE": "טוען הודעות...",
+      "404": "אין התראות",
+      "TABLE_HEADER": [
+        "שם",
+        "מספר טלפון",
+        "שיחות",
+        "פניה אחרונה"
+      ]
+    },
+    "TYPE_LABEL": {
+      "conversation_creation": "שיחה חדשה",
+      "conversation_assignment": "שיחה הוקצתה",
+      "assigned_conversation_new_message": "הודעה חדשה",
+      "conversation_mention": "אִזְכּוּר"
+    }
+  },
+  "NETWORK": {
+    "NOTIFICATION": {
+      "TEXT": "מנותק מ-Chatwoot"
+    },
+    "BUTTON": {
+      "REFRESH": "רענן"
+    }
+  }
+}
